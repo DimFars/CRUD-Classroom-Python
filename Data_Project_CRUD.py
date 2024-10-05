@@ -14,6 +14,7 @@ def choice(boundary1, boundary2):
                 print(f"{boundary1} to {boundary2}, please")
 
 def main():
+    print("Start")
     students = Students()
     teachers = Teachers()
     lessons = Lessons()
