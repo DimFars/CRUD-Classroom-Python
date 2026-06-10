@@ -1,2 +1,3 @@
 # CRUD-Classroom-Python
-A classroom, where we can create, read, update and delete students, teachers and lessons
+A classroom, where we can create, read, update and delete students, teachers and lessons.
+All the project uploaded.
